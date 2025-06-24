@@ -1,3 +1,7 @@
+This is an updated implementation of the repo https://github.com/avisingh599/imitation-dagger.git 
+The said repository was updated last 8 years ago. Some changes were made so that it can work with latest versions of tensorflow,etc.
+
+
 ## Imitation Learning with Dataset Aggregation (DAGGER)
 
 This repository implements a simple algorithm for imitation learning: [DAGGER](https://www.cs.cmu.edu/~sross1/publications/Ross-AIStats11-NoRegret.pdf)
